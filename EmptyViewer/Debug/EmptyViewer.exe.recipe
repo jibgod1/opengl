@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\monrin\Downloads\cg_code\bin\EmptyViewer.exe</FullPath>
+      <FullPath>C:\Users\monrin\Downloads\cg_code\opengl\bin\EmptyViewer.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
